@@ -1,4 +1,27 @@
-### Hi there 👋
+### ¡Hi! 👋 My name is Julian 
+
+## Skills
+
+- ASP.NET Core
+- Django REST framework
+- Angular
+- Amazon Web Services (AWS)
+- Java
+- Python
+- C#
+- TypeScript
+- Azure
+- Programación Orientada a Objetos (POO)
+- SQL
+
+## GitHub Analytics
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianRami&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianRami&layout=compact)
+
+## Contact me
+
+- Email: juliane.ramirezmoral@gmail.com
+- LinkedIn: [Julian Ramirez Dev](https://www.linkedin.com/in/julian-ramirez-dev)
 
 <!--
 **JulianRami/JulianRami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
