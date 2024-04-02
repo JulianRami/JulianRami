@@ -1,5 +1,10 @@
 ### ¡Hi! 👋 My name is Julian 
 
+## About me
+
+- 🌱 I am currently learning more about cloud computing and CI/CD in more depth.
+- 🔥 I enjoy taking on new challenges, exploring cutting-edge technologies, and developing software tailored to meet specific needs.
+
 ## Skills
 
 - ASP.NET Core
