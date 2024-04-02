@@ -26,7 +26,7 @@
 
 ## Others Tools
 
-- Programación Orientada a Objetos (POO)
+- Object Oriented Programming (OOP)
 - SQL
 - Docker
 
