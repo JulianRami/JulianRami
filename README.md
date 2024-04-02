@@ -5,19 +5,30 @@
 - 🌱 I am currently learning more about cloud computing and CI/CD in more depth.
 - 🔥 I enjoy taking on new challenges, exploring cutting-edge technologies, and developing software tailored to meet specific needs.
 
-## Skills
+## Programming languages
 
-- ASP.NET Core
-- Django REST framework
-- Angular
-- Amazon Web Services (AWS)
 - Java
 - Python
 - C#
 - TypeScript
+
+## Frameworks
+
+- ASP.NET Core
+- Django REST framework
+- Spring Boot
+- Angular
+
+## Cloud
+
 - Azure
+- Amazon Web Services (AWS)
+
+## Others Tools
+
 - Programación Orientada a Objetos (POO)
 - SQL
+- Docker
 
 ## GitHub Analytics
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianRami&show_icons=true&theme=radical)
